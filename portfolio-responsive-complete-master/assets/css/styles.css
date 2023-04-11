@@ -369,7 +369,7 @@ img {
 }
 
 .work__img {
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+   box-shadow: 0px 5px 10px rgba(177, 175, 176,0.3);
   border-radius: 0.5rem;
   overflow: hidden;
   
